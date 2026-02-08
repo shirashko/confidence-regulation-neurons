@@ -1,4 +1,6 @@
-# Confidence Regulation Neurons in Language Models
+# Investigating Sources of Uncertainty in LLMs
+This repository is a research extension of the project **[Confidence Regulation Neurons in Language Models](https://github.com/bpwu1/confidence-regulation-neurons)** (Stolfo et al., NeurIPS 2024).
+
 
 This repository contains the code for the NeurIPS 2024 paper “Confidence Regulation Neurons in Language Models.”
 
